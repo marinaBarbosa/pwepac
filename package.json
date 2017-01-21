@@ -1,7 +1,7 @@
 {
   "name": "pwepac",
   "version": "1.0.0",
-  "description": "Programming for Web and Cloud - Work 1",
+  "description": "Work 1 - PWEPAC",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,14 +11,17 @@
     "url": "git+https://github.com/marinaBarbosa/pwepac.git"
   },
   "keywords": [
-    "RESTful",
+    "Express",
     "MongoDB",
-    "Express"
+    "RESTful"
   ],
-  "author": "Marina Barbosa",
+  "author": "Marina barbosa",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/marinaBarbosa/pwepac/issues"
   },
-  "homepage": "https://github.com/marinaBarbosa/pwepac#readme"
+  "homepage": "https://github.com/marinaBarbosa/pwepac#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
